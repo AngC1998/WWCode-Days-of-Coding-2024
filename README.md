@@ -2,7 +2,8 @@
 This is the repository for my 100-day participation in the Women Who Code (WWCode) Days of Coding 2024 Challenge. 
 
 My interests: 
-- Data Science (Community Volunteer for the WWCode Data Science Community & Resource Curator for the WWCode Data Science Days of Coding Challenge)
+- Data Science
+  - Community Volunteer for the WWCode Data Science Community & Resource Curator for the WWCode Data Science Days of Coding Challenge
 - AI & Machine Learning
 - Python
 
