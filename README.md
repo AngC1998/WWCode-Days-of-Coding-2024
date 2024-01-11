@@ -8,6 +8,6 @@ My interests:
 - Python
 
 Other projects and challenges that I am also working on or participating in as part of the WWCode Days of Coding 2024 Challenge: 
-- WiDS Datathon 2024
+- Women in Data Science (WiDS) Datathon 2024
 - Social Determinants in US 2020 Election with Machine Learning
   - Link to repository here: https://github.com/AngC1998/Social-Determinants-in-US-2020-Election-with-Machine-Learning
