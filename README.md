@@ -15,3 +15,4 @@ Other projects and challenges that I am also working on or participating in as p
   - Link to repository here: https://github.com/AngC1998/Social-Determinants-in-US-2020-Election-with-Machine-Learning
 - DataLemur SQL tutorial and practice
 - LeetCode (in Python)
+- Uplimit Intermediate SQL Class
